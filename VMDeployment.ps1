@@ -5,7 +5,7 @@ This will create a new VM for updating the Gies Staff Golden Image
 
 #Login to Azure
 
-Connect-AzAccount -SubscriptionName urbana-vcl-citrix -Identity 
+Connect-AzAccount -SubscriptionName urbana-vcl-citrix
 
 
 # Deploy New VM to Azure
