@@ -85,7 +85,7 @@
                         "createOption": "attach",
                         "osType": "Windows",
                         "managedDisk": {
-                            "id": "/subscriptions/c08f94aa-37b0-4e9f-b995-dd916a074fee/resourceGroups/COMMON-IMAGE-GOLD/providers/Microsoft.Compute/disks/giesstaffbase_OsDisk_1_c76370e565614c91bd978a9f90295a4e"
+                            "id": "/subscriptions/c08f94aa-37b0-4e9f-b995-dd916a074fee/resourceGroups/COMMON-IMAGE-GOLD/providers/Microsoft.Compute/disks/giesstaffbase_OsDisk_1_af169a541041464e82e568da06d5c5a1"
                         }
                     }
                 },
