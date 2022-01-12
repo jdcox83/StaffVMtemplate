@@ -14,5 +14,5 @@ This will create a new VM for updating the Gies Staff Golden Image
 New-AzResourceGroupDeployment `
     -Name Gies-Staff-VM-Update `
     -ResourceGroupName Common-Image-Gold `
-    -TemplateUri "https://github.com/jdcox83/StaffVMtemplate/blob/main/StaffVM-template.json" `
-    -TemplateParameterUri "https://github.com/jdcox83/StaffVMtemplate/blob/main/StaffVM-parameters.json"
+    -TemplateUri "https://raw.githubusercontent.com/jdcox83/StaffVMtemplate/main/StaffVM-template.json" `
+    -TemplateParameterUri "https://raw.githubusercontent.com/jdcox83/StaffVMtemplate/main/StaffVM-Updates-parameters.json"
