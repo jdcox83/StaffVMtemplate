@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "northcentralus"
+        },
+        "networkInterfaceName": {
+            "value": "giesstaffgold515"
+        },
+        "subnetName": {
+            "value": "urbana-vcl-citrix-workervm"
+        },
+        "virtualNetworkId": {
+            "value": "/subscriptions/c08f94aa-37b0-4e9f-b995-dd916a074fee/resourceGroups/urbana-vcl-citrix-networking/providers/Microsoft.Network/virtualNetworks/azure-ics-vcl-vnet"
+        },
+        "virtualMachineName": {
+            "value": "GiesStaffGold"
+        },
+        "virtualMachineComputerName": {
+            "value": "GiesStaffGold"
+        },
+        "virtualMachineRG": {
+            "value": "Common-Image-Gold"
+        },
+        "virtualMachineSize": {
+            "value": "Standard_D2s_v4"
+        },
+        "autoShutdownStatus": {
+            "value": "Enabled"
+        },
+        "autoShutdownTime": {
+            "value": "18:00"
+        },
+        "autoShutdownTimeZone": {
+            "value": "Central Standard Time"
+        },
+        "autoShutdownNotificationStatus": {
+            "value": "Disabled"
+        },
+        "autoShutdownNotificationLocale": {
+            "value": "en"
+        }
+    }
+}
