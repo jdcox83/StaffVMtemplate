@@ -137,7 +137,7 @@
                 },
                 "parameters": {
                     "fileUris": {
-                        "value": "https://citrixgies.blob.core.windows.net/installers/UpdateCitrixGIapps.ps1?sp=r&se=2022-01-12T03:36:23Z&sv=2020-08-04&sr=b&sig=U2iHyKgPIGSXzN3rIjkl4Jje1AyU6vohaNqjGu1EO4I%3D"
+                        "value": "https://citrixgies.blob.core.windows.net/installers/UpdateCitrixGIapps.ps1"
                     },
                     "vmName": {
                         "value": "GiesStaffGold"
